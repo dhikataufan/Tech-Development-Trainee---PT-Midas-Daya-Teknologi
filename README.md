@@ -5,6 +5,7 @@ This repository contains my solution for the Stack Data Structure Implementation
 Features & Implementations
 1. Stack Implementation
 A custom Stack class with the following operations:
+
 ✔️ new Stack() – Creates an empty stack.
 ✔️ push(item) – Adds an item to the stack (O(1)).
 ✔️ pop() – Removes and returns the top item (O(1)).
@@ -14,6 +15,7 @@ A custom Stack class with the following operations:
 
 2. Valid Parentheses Checker
 A function that verifies whether a given string of brackets '()[]{}' is valid based on:
+
 ✔️ Correct closing order
 ✔️ Matching bracket pairs
 
